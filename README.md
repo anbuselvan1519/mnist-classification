@@ -128,20 +128,23 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
 
-![image](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/2798d309-1f04-4c91-a316-d225bfa25650)
-![image](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/e9b76c85-ebfb-49b0-a8fd-3131c67173a0)
+
+![Screenshot 2024-03-23 090821](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/d7c8ef02-d8c9-49d1-a61b-87e8890293c1)
+
+![image](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/e2701999-29e4-4ad0-b10e-77338241e05d)
 
 ### Classification Report
 
-![image](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/b2b91122-9187-4e3e-8500-f07364ee1ccd)
+![image](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/a9fd5a0c-fac4-436d-95b1-898fce1620cf)
 
 ### Confusion Matrix
 
-![image](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/7bd1919e-a1e3-4ecd-bb25-81c6706af464)
+![image](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/756f39f2-ed8a-4f9d-b84b-d3f4de8348d2)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/08557d2c-45c5-473b-9c33-a335c2d0e0bc)
+![image](https://github.com/anbuselvan1519/mnist-classification/assets/139841744/2dcddd37-380e-4935-aadc-c63ec8d22126)
+
 
 ## RESULT
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
